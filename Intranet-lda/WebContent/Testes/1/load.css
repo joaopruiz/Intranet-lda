@@ -1,0 +1,30 @@
+body{
+margin:0px;
+padding:0px;
+}
+
+#loader{
+position:absolute;
+width:100%;
+height:600px;
+}
+
+#conteudo{
+display:none;
+}
+
+.info{
+width:100px;
+float:right;
+margin-right:2px;
+margin-top: 2px;
+}
+
+.info P{
+margin:0;
+padding:3px;
+background-color:red;
+font:11px verdana;
+color:#fff;   
+text-align:center;
+}

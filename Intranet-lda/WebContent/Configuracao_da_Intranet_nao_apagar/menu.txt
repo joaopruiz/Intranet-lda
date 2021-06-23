@@ -1,0 +1,11 @@
+<li><a href='index.jsp'>PÁGINA PRINCIPAL</a></li>
+<li><a href='Documentos/escala.pdf' target='escala'>ESCALA DE PLANTÃO</a></li>
+<li><a href='https://ditec.dpf.gov.br/sistemas/intranet/escala_plantao.php?acao=exibir&codigo_tipo=2407&unidade=1064330' target='plantaoperitos'>ESCALA DE PLANTÃO - PERITOS</a></li>
+<li><a href='Documentos/ferias.pdf' target='ferias'>ESCALA DE FÉRIAS</a></li>
+<li><a href='https://siseg.dpf.gov.br' TARGET='REF'>SISEG - REF - FOLHA PONTO</a></li>
+<li><a href='http://10.41.84.10' target='SR'>SUPERINTENDÊNCIA/DPF/PR</a></li>
+<li><a href='http://10.41.8.11/utec/index.php/Ramais_internos_da_DPF/LDA/PR' target='ramais'>LISTA DE RAMAIS</a></li>
+<li><a href='http://10.41.8.11' target='UTEC'>UTEC/DPF/LDA/PR</a></li>
+<li><a href='down.jsp'>DOWNLOADS</a></li>
+<li><a href='formularios.jsp'>FORMULÁRIOS</a></li>
+<li><a href='fotos.jsp'>ÁLBUM DE FOTOS</a></li>

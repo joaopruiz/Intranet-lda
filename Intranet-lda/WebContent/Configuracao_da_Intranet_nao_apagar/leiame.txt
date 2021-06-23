@@ -1,0 +1,5 @@
+Coloque essa pasta no c: da máquina.
+
+para alterar o menu, edite o menu.txt
+
+por João Paulo Ruiz, 2010.

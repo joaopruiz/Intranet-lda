@@ -1,0 +1,47 @@
+<p>&nbsp;</p>
+
+<p>INTRANET DPF</p>
+<p><a href='http://intranet.dpf.gov.br' target='1'>http://intranet.dpf.gov.br</a></p>
+<p>&nbsp;</p>
+			
+<p>FEDERAÇÃO NACIONAL DOS POLICIAIS FEDERAIS - FENAPEF</p>
+<p><a href='http://www.fenapef.org.br' target='2'>http://www.fenapef.org.br</a></p>
+<p>&nbsp;</p>
+		
+<p>WEBMAIL DPF</p>
+<p><a href='https://webmail.dpf.gov.br' target='3'>https://webmail.dpf.gov.br</a></p>
+<p>&nbsp;</p>
+			
+<p>EXPRESSO MAIL</p>
+<p><a href='https://webmail2.dpf.gov.br' target='4'>https://webmail2.dpf.gov.br</a></p>
+<p>&nbsp;</p>
+		
+<p>SR/DPF/SC</p>
+<p><a href='http://10.48.7.247' target='5'>http://10.48.7.247</a></p>
+<p>&nbsp;</p>
+			
+<p>BANCO DO BRASIL</p>
+<p><a href='http://www.bb.com.br' target='6'>http://www.bb.com.br</a></p>
+<p>&nbsp;</p>
+		
+<p>SIAPENET</p>
+<p><a href='http://www.siapenet.gov.br/Portal/Servico/Apresentacao.asp' target='7'>http://www.siapenet.gov.br</a></p>
+<p>&nbsp;</p>
+		
+<p>DEPARTAMENTO DE POLÍCIA FEDERAL</p>
+<p><a href='http://www.dpf.gov.br' target='8'>http://www.dpf.gov.br</a></p>
+<p>&nbsp;</p>
+			
+<p>MAINFRAME CTI/SERPRO</p>
+<p><a href='http://10.61.5.5' target='9'>http://10.61.5.5</a></p>
+<p>&nbsp;</p>
+			
+<p>SISEG - SISTEMAS DE SEGURANÇA</p>
+<p><a href='http://siseg.dpf.gov.br' target='10'>http://siseg.dpf.gov.br</a></p>
+<p>&nbsp;</p>
+			
+<p>INFOSEG</p>
+<p><a href='http://www.infoseg.gov.br' target='11'>http://www.infoseg.gov.br</a></p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
