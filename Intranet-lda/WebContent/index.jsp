@@ -41,67 +41,40 @@ function validaDados(form) {
 <div id="layout_edgetop"></div>
 
 <div id="layout_container">
-
-	
-
 	<div id="navigation">
-
 		<div id="tabs">
-			
 			<ul>
-								
 			</ul>
-
 			<div class="clearer"></div>
-
 		</div>
-
 	</div>
-
 	<div class="spacer h5"></div>
 <div id="site_title">
-
 		<h1 class="left"><a href="index.jsp"><%=Util.imprimeTitulo() %></a></h1>
 		<h2 class="right">INTRANET DPF</h2>
-
 		<div class="clearer">&nbsp;</div>
-
 	</div>
-
 	<div id="top_separator"></div>
 	<div id="main">
-
 		<div class="right" id="main_left">
-
 			<div id="main_left_content">
-		
 				<div class="post">
-					
 					<div class="post_title">
 						<h1 class="left"><a href="#"> </a></h1>
 						<div class="post_date right"> </div>
 						<div class="clearer">&nbsp;</div>
 					</div>
-
 					<div class="post_body">
-						
 						<p>&nbsp;&nbsp;</p>
 						<%//metodos desativados por falta de BD %>
-						<%//=Util.imprimeNotíciasPaginaIndex()%>
+						<%=Util.imprimeNotíciasPaginaIndex()%>
 						<%//=Uteis.imprimeLinks() %>
 					</div>
 
 					<div class="post_bottom"></div>
-
 				</div>
-
-				
-				
-
 			</div>
-
 		</div>
-
 		<div class="left" id="main_right">
 
 			<div id="sidebar">
@@ -138,8 +111,6 @@ function validaDados(form) {
 					</div>
 					<div class="box_bottom"></div>
 				</div>
-				
-						
 						<%String id_funcao = (String) session.getAttribute("id_funcao");
 							int fu=0;
 							if(id_funcao!=null){
@@ -148,24 +119,15 @@ function validaDados(form) {
 							//out.print("teste JP");		
 							out.print(Menu.imprimeMenu(fu));
 							%>
-				
-
 			</div>
 		</div>
-
 		<div class="clearer">&nbsp;</div>
-
 	</div>
-
 	<div id="footer">
-		
 		<%=Rodape.imprimeRodape() %>
-	
 	</div>
-
 </div>
 <div id="layout_edgebottom"></div>
 </div>
-
 </body>
 </html>
