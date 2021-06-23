@@ -42,7 +42,7 @@ String c="";%>
     	//c=items.
     	b=fitem.getName();
             }  
-         }  
+         }
       }  
    %>  
  <br>
@@ -50,6 +50,5 @@ String c="";%>
  <br><br>
  <img src="<%=b %>">
  <br>
-   
 </body>
 </html>
