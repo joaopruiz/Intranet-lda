@@ -67,6 +67,7 @@ function validaDados(form) {
 					<div class="post_body">
 						<p>&nbsp;&nbsp;</p>
 						<%//metodos desativados por falta de BD %>
+						<%//Adicionado um comentário para Push %>
 						<%=Util.imprimeNotíciasPaginaIndex()%>
 						<%//=Uteis.imprimeLinks() %>
 					</div>
